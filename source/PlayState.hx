@@ -1364,6 +1364,8 @@ class PlayState extends MusicBeatState
 		
 		if(doPush)
 		luaArray.push(new FunkinLua(Asset2File.getPath('assets/data/' + Paths.formatToSongPath(SONG.song) + '/script1.lua')));
+		#end
+		
 		
 		#if LUA_ALLOWED
 		var doPush:Bool = false;
@@ -1375,6 +1377,8 @@ class PlayState extends MusicBeatState
 		luaArray.push(new FunkinLua(Asset2File.getPath('assets/data/' + Paths.formatToSongPath(SONG.song) + '/script2.lua')));
 		
 		#end
+		
+		
         #if LUA_ALLOWED
 		var doPush:Bool = false;
 		if (OpenFlAssets.exists('assets/data/' + Paths.formatToSongPath(SONG.song) + '/script3.lua')) {
