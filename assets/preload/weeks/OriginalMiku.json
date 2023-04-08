@@ -1,0 +1,58 @@
+{
+	"storyName": "Original Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "miku",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"miku",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Popipo",
+			"miku",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Aishite",
+			"miku",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Siu",
+			"miku",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Disappearance",
+			"miku",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

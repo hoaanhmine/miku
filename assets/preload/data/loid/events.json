@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": null,
+		"player1": "bf",
+		"player2": "miku",
+		"player3": null,
+		"events": [
+			[
+				137651.162790697,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 215,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Loid"
+	}
+}

@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "concert",
+		"player1": "bf",
+		"player2": "miku-mad-alt",
+		"player3": null,
+		"events": [
+			[
+				16000,
+				[
+					[
+						"Change Character",
+						"1",
+						"miku-mad"
+					]
+				]
+			],
+			[
+				46000,
+				[
+					[
+						"Change Character",
+						"1",
+						"miku-mad-alt"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Change Character",
+						"1",
+						"miku-mad"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Change Character",
+						"1",
+						"miku-mad-alt"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Change Character",
+						"1",
+						"miku-mad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-expo",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Disappearance"
+	}
+}

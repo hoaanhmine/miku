@@ -1,0 +1,49 @@
+{
+	"storyName": "Concert Conundrum",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "miku",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Loid",
+			"miku",
+			[
+				40,
+				255,
+				255
+			]
+		],
+		[
+			"Endurance",
+			"miku",
+			[
+				40,
+				255,
+				255
+			]
+		],
+		[
+			"Voca",
+			"miku",
+			[
+				0,
+				20,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"miku",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

@@ -1,20 +1,31 @@
 {
-	"songs": [
-		["Tutorial", "gf", [165, 0, 77]]
+	"storyName": "",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"tutorial",
+			"tricky",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
 	"weekCharacters": [
-		"",
+		"miku",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "",
-	"weekBefore": "tutorial",
-	"weekName": "Tutorial",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Custom Week"
 }

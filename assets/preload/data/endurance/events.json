@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "endurance",
+		"player1": "bf",
+		"player2": "miku",
+		"player3": null,
+		"events": [
+			[
+				92192.3076923076,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				107076.923076923,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 130,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Endurance"
+	}
+}

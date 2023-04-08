@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Hatsune idle dance lol",
+	"image": "miku",
+	"position": [
+		134,
+		51
+	],
+	"scale": 0.5,
+	"confirm_anim": "M Dad Idle"
+}
